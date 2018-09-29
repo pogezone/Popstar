@@ -72,6 +72,6 @@ We understand the importance of taking extra precautions to protect the privacy 
 
 Privacy Questions
 
-If you have any questions or concerns about PogeZone's Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us.
+If you have any questions or concerns about Popstar's Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us.
 
 Popstar may update its Privacy Policy from time to time, which will not reduce your rights under this Privacy Policy. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you do not agree to any modifications to this Policy, you could immediately stop all use of all the Services. Your continued use of the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy.
