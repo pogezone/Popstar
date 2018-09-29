@@ -44,7 +44,7 @@ Social feature is an important part of our games. Other players and users may, f
 
 We disclose your information to our employees, contractors, affiliates, ("Service Providers") who provide certain services to us or on our behalf, such as operating and supporting the Services, analyzing data, or performing marketing or consulting services. These Service Providers will only have access to the information needed to perform these limited functions on our behalf.
 
-It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for PogeZone to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Popstar to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
 We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users.
 
