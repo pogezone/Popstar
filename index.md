@@ -4,7 +4,6 @@ By using the Service, you are agreeing to the collection and use of your persona
 
 ## Information Collected and Used
 Popstar's primary objective in collecting user information is to provide and enhance the Service and to enable users to easily navigate and enjoy the Service.
-When you install any of the Popstar games or applications, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook.
 
 The types of personal information collected in accordance with the activities listed above may vary depending on the activity. This "personal information" is defined as information about you that can be used to contact or identify you. Personal information may include: 
 (1) your name, 
