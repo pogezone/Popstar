@@ -1,8 +1,8 @@
-Popstar  Privacy Policy
+## Popstar Privacy Policy
 Popstar  ("Popstar " or "we") is dedicated to protecting the privacy rights of our online users ("users" or "you"). This Online Privacy Policy ("Privacy Policy") has been crafted to inform you as to the ways we collect, store, use, and manage the information you provide in connection with any Popstar  game or application ("Service"). Please note that the scope of this Privacy Policy is limited to only information collected from Popstar  through use of the Service.
 By using the Service, you are agreeing to the collection and use of your personal information as outlined in this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to consult the Privacy Policy regularly for changes.
 
-Information Collected and Used
+## Information Collected and Used
 Popstar 's primary objective in collecting user information is to provide and enhance the Service and to enable users to easily navigate and enjoy the Service.
 When you install any of the Popstar  games or applications, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook.
 
@@ -16,7 +16,7 @@ Additionally, we may acquire information from you through:
 (2) your email of a question to our customer support or 
 (3) your purchase of a virtual product of any type. Please note that because a third party site manages the purchases of virtual goods offered by the Service, we do not have access to your credit card details and billing information.
 
-Popstar  may also invite you to share non-personal information about yourself which may include but is not limited to: 
+Popstar may also invite you to share non-personal information about yourself which may include but is not limited to: 
 (1) your age or date of birth; 
 (2) your gender; 
 (3) information about the hardware you may own; 
